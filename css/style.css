@@ -44,7 +44,7 @@ background: linear-gradient(#e66465, #9198e5);
 .column {
   width: 30%;
   display: inline-block;
-
+background: linear-gradient(#e66465, #9198e5);
 }
 
 .small {
